@@ -1,5 +1,10 @@
-h1,
-h2,
-h3 {
-	text-align: center;
+p {
+	text-align: justify;
+	font-size: 16px;
+}
+
+p,
+h3,
+h2 {
+	color: red;
 }
